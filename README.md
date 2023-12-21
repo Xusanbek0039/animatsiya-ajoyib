@@ -1,0 +1,2 @@
+# animatsiya-ajoyib
+ Qishki manzara
