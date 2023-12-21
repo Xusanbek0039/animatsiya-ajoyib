@@ -13,3 +13,6 @@
 
 **Animatsiya vaqtida bulut siljishi**
 ![2](https://github.com/Xusanbek0071/animatsiya-ajoyib/blob/main/skrens/2.png)
+
+**Bulutlar ochilib bo'lgandan so'ng**
+![](https://github.com/Xusanbek0071/animatsiya-ajoyib/blob/main/skrens/3.png)
