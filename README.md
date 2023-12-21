@@ -15,4 +15,14 @@
 ![2](https://github.com/Xusanbek0071/animatsiya-ajoyib/blob/main/skrens/2.png)
 
 **Bulutlar ochilib bo'lgandan so'ng**
-![](https://github.com/Xusanbek0071/animatsiya-ajoyib/blob/main/skrens/3.png)
+![3](https://github.com/Xusanbek0071/animatsiya-ajoyib/blob/main/skrens/3.png)
+
+<div align="left">
+  <a href="https://t.me/mbin_dev_0071" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+    <a href="https://instagram.com/husanbek_dev" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  
+</div>
