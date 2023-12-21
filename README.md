@@ -6,3 +6,10 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
+
+
+**Birinchi saxifa**
+![1](https://github.com/Xusanbek0071/animatsiya-ajoyib/blob/main/skrens/1.png)
+
+**Animatsiya vaqtida bulut siljishi**
+![2](https://github.com/Xusanbek0071/animatsiya-ajoyib/blob/main/skrens/2.png)
